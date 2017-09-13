@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on </title>
+    <link>https://eugeniedugoua.github.io/publication/</link>
+    <description>Recent content in Publications on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Your Name</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Geographic and socio-economic barriers to rural electrification: New evidence from Indian villages.</title>
+      <link>https://eugeniedugoua.github.io/publication/dugoua.etal2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eugeniedugoua.github.io/publication/dugoua.etal2017/</guid>
+      <description>&lt;p&gt;The International Energy Agency estimates that more than a billion people remain without household electricity access. However, countries such as India have recently made major progress in rural electrification. Who has benefited from these achievements? We focus on 714 villages in six energy-poor states of northern and eastern India to investigate trends in electricity access. We use data both from the 2011 Census of India and an original energy access survey conducted in 2014 and 2015. During the three years that separated the surveys, distance to the nearest town and land area lose their power as predictors of the percentage of households in the village that has access to electricity. In this regard, the Indian government&amp;rsquo;s flagship rural electrification program seems to have managed to overcome a major obstacle to grid extension. On the other hand, socio-economic inequalities between villages related to caste status and household expenditure remain strong predictors. These findings highlight the importance of socio-economic barriers to rural electricity access and alleviate concerns about remoteness and population density as obstacles to grid extension.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Relative Deprivation and Energy Poverty: When Does Unequal Access to Electricity Cause Dissatisfaction?</title>
+      <link>https://eugeniedugoua.github.io/publication/dugoua.urpelainen2014/</link>
+      <pubDate>Fri, 09 May 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://eugeniedugoua.github.io/publication/dugoua.urpelainen2014/</guid>
+      <description>&lt;p&gt;In the least developed countries, unequal access to infrastructure is a major form of inequality. We examine the conditions under which unequal electricity access causes dissatisfaction. The question is important because grievances could prompt demands for policy change. We argue that feelings of relative deprivation both cause dissatisfaction and create hope for improvement. Empirically, we analyze household survey data from five East African countries. All else constant, households living close to a power line are less satisfied with their lighting solution but also have more hope for improvement. Because household lighting is the most important use for electricity in a poor household, this supports the relative deprivation hypothesis. Households that are reminded of their deprivation by the power line are both less satisfied and believe something can be done to solve the problem. To inform policy, we also show that the proximity of a power line decreases the household&amp;rsquo;s interest in solar home systems as an alternative to grid electrification, whereas valuation for solar lanterns seems to be increasing.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
