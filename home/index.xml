@@ -8,65 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Your Name</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://eugeniedugoua.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://eugeniedugoua.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://eugeniedugoua.github.io/home/about/</guid>
-      <description>I am an environmental economist analyzing issues related to innovation, technological change and energy. My interests lie primarily in examining the types of policies and institutions that can influence science, innovation and diffusion of technologies such that economic development can be sustainable for the environment and societies. In 2018, I graduated with a Ph.D. from Columbia University and started as an assistant professor in Environmental Economics at the London School of Economics in the Department of Geography and Environment.
-	      </item>
-    
-    <item>
-      <title>Working Papers</title>
-      <link>https://eugeniedugoua.github.io/home/workingpapers/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://eugeniedugoua.github.io/home/workingpapers/</guid>
-      <description>International Environmental Agreements and Directed Technological Change: Evidence from the Ozone Regime (pdf) (SOM)
- Click for Abstract  Can international environmental agreements induce innovation on green technologies? It is possible that international negotiations succeed only once technological solutions are available. In this case, agreements would help diffuse such technologies rather than fostering their development. I provide the first quantitative evidence that the Montreal Protocol, and its following amendments to protect the ozone layer, triggered a large increase in research and innovation on alternatives to ozone-depleting molecules.</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://eugeniedugoua.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://eugeniedugoua.github.io/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://eugeniedugoua.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://eugeniedugoua.github.io/home/teaching/</guid>
-      <description>2018-2019, LSE, Department of Geography and environment:
-GY222 Applied Environmental Economics (BSc)
-6 weeks, 4 in Michaelmas, 2 in Lent
-GY455 Economic Appraisal and Evaluation (MSc)
-4 weeks, Lent
-GY426 Environmental and Resource Economics (MSc)
-2 weeks, 1 in Michaelmas, 1 in Lent
-GY420 Environmental Regulation (MSc)
-2 weeks, Lent
-In the past, I have served as a teaching assistant for the following courses at Columbia University:
-- Economic Development (Miguel Urquiola) Spring 2017</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://eugeniedugoua.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://eugeniedugoua.github.io/home/contact/</guid>
-      <description></description>
-    </item>
+    <atom:link href="/home/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
